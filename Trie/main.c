@@ -1,12 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-
 #define N 26
-
 typedef struct TrieNode TrieNode;
-
 struct TrieNode {
 
     char data;
