@@ -1,0 +1,3 @@
+D:/Ava/University/data-structures/max-heap/cmake-build-debug/CMakeFiles/max_heap.dir
+D:/Ava/University/data-structures/max-heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ava/University/data-structures/max-heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
