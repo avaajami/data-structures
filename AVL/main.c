@@ -125,7 +125,6 @@ int main()
 {
     struct Node* root = NULL;
 
-    // Inserting nodes
     root = insert(root, 1);
     root = insert(root, 2);
     root = insert(root, 4);
